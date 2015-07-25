@@ -1,17 +1,10 @@
 ---
+layout: post
 title: "Goals 2015"
-layout: "post"
-permalink: "\\2015\01\goals-2015.html"
-uuid: "5896543961379290359"
-guid: "tag:blogger.com,1999:blog-4199323560120506752.post-5896543961379290359"
 date: "2015-01-01 18:23:00"
 updated: "2015-01-21 18:15:50"
 description: 
-blogger:
-    siteid: "4199323560120506752"
-    postid: "5896543961379290359"
-    comments: "0"
-categories: [Goals]
+categories: Goals
 author: 
     name: "Rajeshkumar Ramasamy"
     url: "https://plus.google.com/103224277488233276143?rel=author"

@@ -1,17 +1,10 @@
 ---
+layout: post
 title: "Robots.txt"
-layout: "post"
-permalink: "\\2009\11\robotstxt.html"
-uuid: "7363710236383816858"
-guid: "tag:blogger.com,1999:blog-4199323560120506752.post-7363710236383816858"
 date: "2009-11-11 12:18:00"
 updated: "2015-01-21 18:36:30"
 description: 
-blogger:
-    siteid: "4199323560120506752"
-    postid: "7363710236383816858"
-    comments: "1"
-categories: [General]
+categories: General
 author: 
     name: "Rajeshkumar Ramasamy"
     url: "https://plus.google.com/103224277488233276143?rel=author"
