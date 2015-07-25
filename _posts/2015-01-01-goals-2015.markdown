@@ -4,7 +4,6 @@ title: "Goals 2015"
 date: "2015-01-01 18:23:00"
 updated: "2015-01-21 18:15:50"
 description: 
-categories: Goals
 ---
 
 <div class="css-full-post-content js-full-post-content">

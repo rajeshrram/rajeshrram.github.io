@@ -4,7 +4,6 @@ title: "Robots.txt"
 date: "2009-11-11 12:18:00"
 updated: "2015-01-21 18:36:30"
 description: 
-categories: General
 ---
 
 Hi Friends,
