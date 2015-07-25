@@ -5,10 +5,6 @@ date: "2015-01-01 18:23:00"
 updated: "2015-01-21 18:15:50"
 description: 
 categories: Goals
-author: 
-    name: "Rajeshkumar Ramasamy"
-    url: "https://plus.google.com/103224277488233276143?rel=author"
-    image: "//lh3.googleusercontent.com/-6529ZP6xOxE/AAAAAAAAAAI/AAAAAAAAGDQ/8tWd8ci28b4/s32-c/photo.jpg"
 ---
 
 <div class="css-full-post-content js-full-post-content">

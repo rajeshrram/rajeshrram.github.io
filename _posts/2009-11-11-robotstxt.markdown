@@ -5,6 +5,7 @@ date: "2009-11-11 12:18:00"
 updated: "2015-01-21 18:36:30"
 description: 
 categories: General
+---
 
 Hi Friends,
 Did you hear anything about this robots.txt file .This file is important for web development.The **bold**Robot Exclusion Standard, also known as the **bold**Robots Exclusion Protocol or **bold**robots.txt protocolis used to prevent files from **bold**web crawlers or **bold**Robots or **bold**Web Spiders .**bold**Web Crawlers ..What is this ? What is the purpose of this ? The answer is Web Crawlers areused(frequently used in search engines like Google ) to get data from [World Wide Web](http://en.wikipedia.org/wiki/World_Wide_Web) .How Search engines work ??![Alt text](http://1.bp.blogspot.com/-_w11_ktWZ-k/UhpiZRAuk2I/AAAAAAAAIJk/xngKkwsfVB0/s1600/searchenginechart.gif)![Alt Text](http://1.bp.blogspot.com/-_w11_ktWZ-k/UhpiZRAuk2I/AAAAAAAAIJk/xngKkwsfVB0/s320/searchenginechart.gif") 
