@@ -2,13 +2,21 @@
 <html lang="en-us">
 
   {% include head.html %}
-
+  {% include google_analytics.html %}
   <body>
 
     {% include sidebar.html %}
 
     <div class="content container">
       {{ content }}
+	  
+	  {% include comments.html %}
+
+      <div class="footer">
+        <p>
+          &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+        </p>
+      </div>
     </div>
 
   </body>
