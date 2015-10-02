@@ -1,30 +1,33 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown:            redcarpet
+highlighter:         pygments
 
 # Permalinks
-permalink:        pretty
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:            Rajeshkumar
-tagline:          'Creativity Leads To Innovation'
-description:      ''
-url:              http://www.rajeshrram.com
-baseurl:          /
+title:               Rajeshkumar 
+tagline:             'Software Developer in Bangalore'
+description:         'Creativity Leads To Innovation'
+url:                 http://www.rajeshrram.com
+giturl:				 http://rajeshrram.github.io
+baseurl:             /
+paginate:            5
+rss:                 atom.xml
 
+# About/contact
 author:
-  name:           'Rajeshkumar Ramasamy'
-  url:            https://twitter.com/rajeshrram
-
-paginate:         5
+  name:             Rajeshkumar R
+  github:           rajeshrram
+  email:            rajeshrram@outlook.com
+  linkedin:         rajeshrram
+ 
 
 # Custom vars
-version:          2.1.0
+version:             2.1.0
 
 github:
-  repo:           https://github.com/rajeshrram
-
- 
- # This is the list of pages to incldue in the header of the website.
-pages_list:       {'About':'/about','Archive':'/archive','Feed':'/atom.xml'}
+  repo:           https://github.com/rajeshrram/rajeshrram.github.io
