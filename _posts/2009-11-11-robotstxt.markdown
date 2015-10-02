@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Robots.txt"
+comments: True
 date: "2009-11-11 12:18:00"
 updated: "2015-01-21 18:36:30"
 description: 
