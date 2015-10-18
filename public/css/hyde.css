@@ -248,3 +248,12 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* Profile Image */
+
+.sidebar img{
+width:150px;
+height:150px;
+display: block;
+margin: 0 auto;
+}
